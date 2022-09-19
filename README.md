@@ -30,4 +30,4 @@ public class Main {
   }
 }
 ```
-#### [Решение](https://github.com/ripodgor/Java_QA46_3.2_/blob/3c5259df867da671d435632edeba37f6a3e7d994/src/Main.java)
+#### [Решение](https://github.com/ripodgor/Java_QA46_3.2/blob/41cfee8848ffff92fbb1be1a3a4b5815d3b1452a/src/Main.java)
